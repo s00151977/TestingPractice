@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NunitTests", "NunitTests\Nu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Premium", "Premium\Premium.csproj", "{447993B7-06A2-4285-85F8-8F0EAAD258A1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Selenium", "Selenium\Selenium.csproj", "{567FC31B-CF02-469D-89F2-6AAF2323EF62}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumWebPage", "SeleniumWebPage\SeleniumWebPage.csproj", "{BE7E7CB8-D57A-4096-ABF1-E1D1A9AAB8F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{447993B7-06A2-4285-85F8-8F0EAAD258A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{447993B7-06A2-4285-85F8-8F0EAAD258A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{447993B7-06A2-4285-85F8-8F0EAAD258A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{567FC31B-CF02-469D-89F2-6AAF2323EF62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567FC31B-CF02-469D-89F2-6AAF2323EF62}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567FC31B-CF02-469D-89F2-6AAF2323EF62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567FC31B-CF02-469D-89F2-6AAF2323EF62}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE7E7CB8-D57A-4096-ABF1-E1D1A9AAB8F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE7E7CB8-D57A-4096-ABF1-E1D1A9AAB8F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE7E7CB8-D57A-4096-ABF1-E1D1A9AAB8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE7E7CB8-D57A-4096-ABF1-E1D1A9AAB8F5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
