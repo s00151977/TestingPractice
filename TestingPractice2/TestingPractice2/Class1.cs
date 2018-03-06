@@ -9,15 +9,15 @@ using System.Threading.Tasks;
 
 namespace TestingPractice2
 {
-   /* [TestFixture]
+    [TestFixture]
     static public class Class1
     {
-          static Premium p;
+          static Premium2 p;
 
           [SetUp]
           static public void init()
           {
-              p = new Premium();
+              p = new Premium2();
           }
 
           [Test]
@@ -100,5 +100,5 @@ namespace TestingPractice2
               Assert.AreEqual(expectedResult, actualResult);
           }
      
-    }*/
+    }
 }
